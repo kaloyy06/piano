@@ -1,0 +1,12 @@
+{
+  "id": "level_01",
+  "name": "My First Level",
+  "audioUrl": "https://raw.githubusercontent.com/USER_NAME/REPO_NAME/main/Jinglebells.mp3",
+  "notes": [
+    {"timeMs": 1000, "column": 0},
+    {"timeMs": 2000, "column": 2},
+    {"timeMs": 3000, "column": 1},
+    {"timeMs": 4000, "column": 3},
+    {"timeMs": 5000, "column": 0}
+  ]
+}
